@@ -72,7 +72,7 @@ Similar video : https://www.youtube.com/watch?v=JYtDibqJMs0&t=475s
 ---
 
 ## Credits
-- **Developer**: Kiran Mulge
+- **Developer**: Anupam Babulgi
 - **Resources**:
   - [ESP-IDF Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html)
   - [BLE Provisioning Example](https://github.com/espressif/esp-idf/tree/master/examples/provisioning/wifi_prov_mgr)
